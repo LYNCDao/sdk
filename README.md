@@ -1,5 +1,7 @@
 # LYNC
 
+Offical CA : https://pump.fun/coin/JDRRfKSLWQbUaX4T2C3ZwKCf3MHTHPD7U9aYEBwepump
+
 ### The Fully Autonomous Deflationary Engine
 
 USELYNC harnesses the power of AI-driven trading to autonomously execute strategies, generate value, and systematically reduce circulating supply through continuous burn mechanisms.
